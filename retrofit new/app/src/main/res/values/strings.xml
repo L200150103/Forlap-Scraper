@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Forlap UMS</string>
+    <string name="text_paragraf1">
+        Forum Laporan Pendidikan Tinggi atau yang disebut Forlap Dikti merupakan sebuah fasilitas dari Kementrian Riset, Teknologi dan Pendidikan Tinggi untuk mengecek dan mengamati informasi atau data tentang perguruan tinggi, mahasiswa maupun dosen. Forlap menyimpan data mahasiswa dari sebuah instansi pendidikan tinggi  dari awal masuk sampai keluarnya nomor seri Penomoran Ijazah Nasional sesuai dengan Surat Edaran Jenderal Pembelajaran dan Kemahasiswaan Nomor 700/SE/2017 tentang penggunaan Penomoran Ijazah Nasional (PIN) dan Sistem Verivikasi Ijazah secara Elektronik (SIVIL) yang dikemudian hari akan sangat dibutuhkan bagi mahasiswa maupun instansi lainnya.
+    </string>
+    <string name="text_paragraf2">
+        Web Scraper Menggunakan Aplikasi Android\nDigunakan sebagai tugas akhir program studi S1 Informatika\n
+        Developer : Sigit Rizqi Ramadan \n
+        NIM : L200150103\n
+        Program Studi : Informatika \n
+        Fakultas : Komunikasi dan Informatika \n
+        Universitas : Universitas Muhammadiyah Surakarta
+    </string>
+
+    <string name="text_paragraf3">
+        Forlap Dikti adalah informasi yang berasal dari Pangkalan Data Pendidikan Tinggi (PDDIKTI) yang merupakan kumpulan data perguruan tinggi secara nasional yang dikelola Pusat Data dan Informasi Iptek Dikti.
+        \n\nPD Dikti merupakan pangkalan data yang menghimpun data mahasiswa dari seluruh perguruan tinggi di Indonesia yang mencakup profil mahasiswa, informasi program studi, perguruan tinggi, hingga profil dosen. Seluruh data yang yang tersedia merupakan data-data yang dikirimkan seluruh perguruan tinggi pada tiap semester.
+        \n\nInformasi yang berasal dari PD DIKTI tersebut termuat dalam laman forlap dikti atau biasa disebut laman Forlap Dikti yang dikelola Pusat Data dan Informasi Iptek Dikti. Data tersebut sangat penting bagi mahasiswa karena digunakan sebagai rujukan pemberian beasiswa, penelitian, perlombaan tingkat mahasiswa, dan ketika ingin berpindah ke perguruan tinggi lain, hal tersebut dilakukan untuk menghindari adanya penerimaan bagi mahasiswa ilegal.
+        \n\nLaman yang dapat diakses secara online ini menampilkan informasi seputar perguruan tinggi di seluruh Indonesia yang terdaftar dan diakui oleh Kemristekdikti. Hadirnya laman ini mempermudah siapapun yang ingin mencari informasi tentang data perguruan tinggi, data mahasiswa, data dosen serta dapat mengetahui kinerja program studi dan perguruan tinggi yang mereka tuju.
+        \n\nForlap Dikti juga digunakan ketika mahasiswa alumni yang ingin melamar sebuah pekerjaan khususnya dibawah lembaga pemerintahan BKN (Badan Kepegawaian Negara) dan BKD (Badan Kepegawaian Daerah) yang menggunakan data dari Forlap Dikti untuk melacak legalitas dari Pendidikan tinggi calon PNS (Pegawai Negeri Sipil) maupun PNS aktif.
+        \n\nBahkan pada saat ini, pendaftaran CPNS 2018 juga mewajibkan peserta untuk mengecek data ijazahnya di forlap dikti sebelum mendaftar di link sscn.bkn.go.id. Pengecekan ke situs Forlap Dikti ini bertujuan agar data-data peserta Pendaftaran CPNS 2018 telah tercatat di lembaga resmi pemerintah.
+
+
+
+    </string>
+
+    <string-array name="list_prodi2">
+        <item>Ilmu Hukum S3</item>
+        <item>Pendidikan Agama Islam S3</item>
+        <item>Administrasi Pendidikan S2</item>
+        <item>Akuntansi S2</item>
+        <item>Farmasi S2</item>
+        <item>Hukum Ekonomi Syariah S2</item>
+        <item>Ilmu Hukum S2</item>
+        <item>Manajemen S2</item>
+        <item>Pendidikan Agama Islam S2</item>
+        <item>Pendidikan Bahasa Indonesia S2</item>
+        <item>Pendidikan Bahasa Inggris S2</item>
+        <item>Pendidikan Dasar S2</item>
+        <item>Pengkajian Bahasa S2</item>
+        <item>Pengkajian Islam S2</item>
+        <item>Psikologi S2</item>
+        <item>Psikologi Profesi S2</item>
+        <item>Studi Islam S2</item>
+        <item>Teknik Kimia S2</item>
+        <item>Teknik Mesin S2</item>
+        <item>Teknik Sipil S2</item>
+        <item>Dokter Gigi Profesi</item>
+        <item>Pendidikan Profesi Guru Profesi</item>
+        <item>Pendidikan Profesi Guru Profesi</item>
+        <item>Profesi Apoteker Profesi</item>
+        <item>Profesi Dokter Profesi</item>
+        <item>Profesi Fisioterapi Profesi</item>
+        <item>Profesi Insinyur Profesi</item>
+        <item>Profesi Ners Profesi</item>
+        <item>Akuntansi S1</item>
+        <item>Arsitektur S1</item>
+        <item>Ekonomi Pembangunan S1</item>
+        <item>Farmasi S1</item>
+        <item>Fisioterapi S1</item>
+        <item>Geografi S1</item>
+        <item>Hukum Ekonomi Syari`ah (Mu`amalah) S1</item>
+        <item>Ilmu Al Quran dan Tafsir (Tafsir Hadits) S1</item>
+        <item>Ilmu Gizi S1</item>
+        <item>Ilmu Hukum S1</item>
+        <item>Ilmu Keperawatan S1</item>
+        <item>Ilmu Komunikasi S1</item>
+        <item>Kedokteran S1</item>
+        <item>Kesehatan Masyarakat S1</item>
+        <item>Manajemen S1</item>
+        <item>Pendidikan Agama Islam S1</item>
+        <item>Pendidikan Akuntansi S1</item>
+        <item>Pendidikan Bahasa Dan Sastra Indonesia S1</item>
+        <item>Pendidikan Bahasa Inggris S1</item>
+        <item>Pendidikan Biologi S1</item>
+        <item>Pendidikan Dokter Gigi S1</item>
+        <item>Pendidikan Geografi S1</item>
+        <item>Pendidikan Guru Pendidikan Anak Usia Dini S1</item>
+        <item>Pendidikan Guru Sekolah Dasar S1</item>
+        <item>Pendidikan Matematika S1</item>
+        <item>Pendidikan Olahraga S1</item>
+        <item>Pendidikan Pancasila Dan Kewarganegaraan S1</item>
+        <item>Pendidikan Teknik Informatika S1</item>
+        <item>Perbandingan Agama S1</item>
+        <item>Psikologi S1</item>
+        <item>PSKGJ Pendidikan Akuntansi S1</item>
+        <item>PSKGJ Pendidikan Anak Usia Dini (PAUD) S1</item>
+        <item>PSKGJ Pendidikan Bahasa Indonesia dan Sastra Daerah S1</item>
+        <item>PSKGJ Pendidikan Bahasa Inggris S1</item>
+        <item>PSKGJ Pendidikan Biologi S1</item>
+        <item>PSKGJ Pendidikan Guru Sekolah Dasar(PGSD) S1</item>
+        <item>PSKGJ Pendidikan Matematika S1</item>
+        <item>PSKGJ Pendidikan Pancasila dan Kewarganegaraan S1</item>
+        <item>Teknik Elektro S1</item>
+        <item>Teknik Industri S1</item>
+        <item>Teknik Informatika S1</item>
+        <item>Teknik Kimia S1</item>
+        <item>Teknik Mesin S1</item>
+        <item>Teknik Sipil S1</item>
+        <item>Fisioterapi D4</item>
+        <item>Fisioterapi D3</item>
+        <item>Gizi D3</item>
+        <item>Keperawatan D3</item>
+    </string-array>
+</resources>
